@@ -46,7 +46,7 @@ class Smartphone extends Device implements Camera, MusicPlayer {
     }
 }
 
-public class MixedwithMultipleInheritance {
+public class Abstractinterface {
 
     public static void main(String[] args) {
 
