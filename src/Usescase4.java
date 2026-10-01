@@ -8,10 +8,15 @@ public class Usescase4 {
         checkAge(a);}
      catch(AgeInvalidException e){
          System.out.println(e);
+
+
+
      }
+
      finally {
          sc.close();
      }
+     //pen and paper
 
     }
     static void checkAge(int age){
